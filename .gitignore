@@ -1,0 +1,7 @@
+__pycache__/
+models/
+smartevent_data.csv
+.env
+*.pyc
+.vscode/
+.idea/
